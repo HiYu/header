@@ -1,0 +1,27 @@
+[
+    {
+        "command": "add_python_header",
+        "keys": [
+            "alt+y"
+        ]
+    },
+    {
+        "command": "add_php_header",
+        "keys": [
+            "alt+p"
+        ]
+    },
+    {
+        "command": "add_php_header",
+        "keys": [
+            "alt+c"
+        ]
+    },
+    {
+        "command": "add_func",
+        "keys": [
+            "alt+shift+j"
+        ]
+    }
+]
+
